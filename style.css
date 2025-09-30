@@ -40,7 +40,6 @@ body {
     font-family: Verdana, Arial, Helvetica, sans-serif;
     height: 2650px;
     background-color: #141414;
-    color:#8200ff
 }
 
 #header {
@@ -55,7 +54,6 @@ body {
 
 a.button {
     padding: 7px;
-    border: -8px outset buttonborder;
     border-radius: 38px;
     color: black;
     background-color: #8200ff;
@@ -121,6 +119,7 @@ content {
     font-size: 12px;
     font-style: italic;
     background: #000000;
+    color: #8200ff;
 }
 
 #footer p {
